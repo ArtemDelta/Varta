@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.mjpegstreamer.MotionDetectionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-04-17T07:51:17" hostname="DESKTOP-OBMMHH1" time="0.118">
+  <properties/>
+  <testcase name="testSlightlyDifferentFrames_motionDetected" classname="com.example.mjpegstreamer.MotionDetectionTest" time="0.021"/>
+  <testcase name="testRandomlyDifferentFrames_motionDetected" classname="com.example.mjpegstreamer.MotionDetectionTest" time="0.09"/>
+  <testcase name="testIdenticalFrames_noMotionDetected" classname="com.example.mjpegstreamer.MotionDetectionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

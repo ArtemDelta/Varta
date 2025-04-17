@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+id ipTextView
+id previewView
+id startButton
+id statusTextView
+layout activity_main

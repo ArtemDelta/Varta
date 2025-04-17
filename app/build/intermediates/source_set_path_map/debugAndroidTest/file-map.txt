@@ -1,0 +1,4 @@
+com.example.mjpegstreamer.test.app-androidTest-0 C:\android_cursach\app\build\generated\res\resValues\androidTest\debug
+com.example.mjpegstreamer.test.app-mergeDebugAndroidTestResources-1 C:\android_cursach\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.mjpegstreamer.test.app-mergeDebugAndroidTestResources-2 C:\android_cursach\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.mjpegstreamer.test.app-merged_res-3 C:\android_cursach\app\build\intermediates\merged_res\debugAndroidTest
